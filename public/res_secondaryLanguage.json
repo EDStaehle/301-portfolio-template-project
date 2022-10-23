@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Ursula Lopez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Χαίρετε",
+      "description": "Ονομάζομαι Elias Staehle, εργάζομαι με JavaScript, react, CSS και Bootstrap για να γίνω προγραμματιστής fullstack. Αυτό που βλέπετε τώρα είναι πρότυπο χαρτοφυλακίου από το Code Fellows. Αν σας αρέσει αυτό το πρότυπο χαρτοφυλακίου, φροντίστε να ⭐ το αποθετήριο για να το κάνετε πιο αναγνωρίσιμο από άλλους χρήστες.",
       "section_name": {
         "about": "O mnie",
         "projects": "Projekty",
@@ -11,105 +11,125 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Tech-Folio",
+        "startDate": "2022",
+        "description": "Η πιο εκτεταμένη εφαρμογή με την οποία είχα την ευκαιρία να δουλέψω. Έχω μάθει πολλές τεχνολογίες. Η δουλειά μου ήταν να χειρίζομαι τη λογική JaveScript μαζί με τα κινούμενα σχέδια CSS για τη σελίδα προεπισκόπησης χαρτοφυλακίου. Η εφαρμογή χειρίζεται τις πληροφορίες που εισάγει ο χρήστης για να τις μεταγλωττίσει σε ένα προ-δημιουργημένο χαρτοφυλάκιο.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/tech-folio/Techfolio-banner.png",
+          "images/portfolio/tech-folio/lab-5-techfolio-pic1.png",
+          "images/portfolio/tech-folio/lab-5-techfolio-pic2.png",
+          "images/portfolio/tech-folio/lab-5-techfolio-pic3.png",
+          "images/portfolio/tech-folio/lab-5-techfolio-pic4.png"
         ],
-        "url": "",
+        "url": "https://seatt-c-201d90-group-b.github.io/Tech-Folio/",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Cookie Stand",
+        "startDate": "2022",
+        "description": "Προσωπικό έργο για αντικείμενο μελέτης. Δημιούργησα μια ιστοσελίδα που θα εμφανίζει τις πωλήσεις όλων των φανταστικών καταστημάτων που πωλούν Pat's Salmon Cookies",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/Cookie-Stand/cookie-stand-logo.png",
+          "images/portfolio/Cookie-Stand/cookie-stand-lab-5.png"
         ],
-        "url": "https://github.com",
+        "url": "https://edstaehle.github.io/Cookie-Stand/index.html",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          }
+        ]
+      },
+      {
+        "title": "Gallery of Horns",
+        "startDate": "2022",
+        "description": "Αυτό είναι ένα έργο στο οποίο δούλεψα ενώ φοιτούσα στο σχολείο στο Code Fellows. Αυτή ήταν η πρώτη φορά που χρησιμοποιούσα τις βιβλιοθήκες React Js και React boostrap.",
+        "images": [
+          "images/portfolio/Gallery-of-Horns/Gallery-of-Horns-logo.png",
+          "images/portfolio/Gallery-of-Horns/Gallery-of-Horns-pic1.png",
+          "images/portfolio/Gallery-of-Horns/Gallery-of-Horns-pic2.png",
+          "images/portfolio/Gallery-of-Horns/Gallery-of-Horns-pic3.png"
+        ],
+        "url": "https://lambent-sundae-bf0b4a.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-original-wordmark colored",
+            "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Code Fellows",
         "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "years": "08.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React Js"
         ],
         "technologies": [
           "REST API",
           "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "MDBootstrap"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Ross IND INC",
+        "title": "Machinist",
+        "years": "06.2022 - 08.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Cad design"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Bridgeport CNC",
+          "MasterCam 2015, 2016, 2017, 2019, 2020, mx-5, mx-7",
+          "HAAS IPS CNC controller"
+        ]
+      },
+      {
+        "company": "United States Marine Corps",
+        "title": "Machinist",
+        "years": "06.2017 - 06.2022",
+        "mainTech": [
+          "Cad design"
+        ],
+        "technologies": [
+          "Bridgeport CNC",
+          "MasterCam 2015, 2016, 2017, 2019, 2020, mx-5, mx-7",
+          "waterjet OMAX Cad design software",
+          "Auto CAD 3d printing",
+          "HAAS IPS CNC controlling"
         ]
       }
     ]
